@@ -4,7 +4,8 @@ MandelBrot Image generator created in C using IPC. Uses Unix/Linux system calls.
 This projetc uses various IPC resources for Unix systems and the C
 library to create Mandelbrot images.
 
-To run the program you can do ./mandelbrot at the command line using Unix/Linux shell.
+To use this program just type in Make at the command line in a shell environment that
+has a gcc compiler. Then run the program by typing in ./mandelbrot
 
 You can use the Xmax, Xmin, Ymax, and Ymin values to zoom in or out of the mandelbrot
 image. You can even save the image to a file if you want, but it is not necessary.
